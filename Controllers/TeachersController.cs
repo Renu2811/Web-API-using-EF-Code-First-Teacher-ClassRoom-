@@ -165,8 +165,8 @@ namespace WebAPI_2.Controllers
         {
             return (_context.Teachers?.Any(e => e.ID == id)).GetValueOrDefault();
         }
-
-         [HttpPatch("{id}")]
+        
+        
        
         [HttpPatch("{teacherId}")]
         public async Task<IActionResult> PatchTeacher(int teacherId, TeacherApiModel teacherApiModel)
