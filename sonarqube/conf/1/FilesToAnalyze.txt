@@ -1,0 +1,15 @@
+﻿D:\C#handson\WebAPI-2\ApiModel\ClassRoomApiModel.cs
+D:\C#handson\WebAPI-2\ApiModel\TeacherAndClassRoomApiModel.cs
+D:\C#handson\WebAPI-2\ApiModel\TeacherApiModel.cs
+D:\C#handson\WebAPI-2\Controllers\StudentsController.cs
+D:\C#handson\WebAPI-2\Controllers\TeachersController.cs
+D:\C#handson\WebAPI-2\MappingConfigurations\AutoMapperProfile.cs
+D:\C#handson\WebAPI-2\Program.cs
+D:\C#handson\WebAPI-2\WeatherForecast.cs
+D:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.GlobalUsings.g.cs
+D:\C#handson\WebAPI-2\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.AssemblyInfo.cs
+D:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.MvcApplicationPartsAssemblyInfo.cs
+D:\C#handson\WebAPI-2\appsettings.Development.json
+D:\C#handson\WebAPI-2\appsettings.json
+D:\C#handson\WebAPI-2\Properties\launchSettings.json

@@ -1,0 +1,13 @@
+<
+3D:\C#handson\WebAPI-2\ApiModel\ClassRoomApiModel.csutf-8F
+=D:\C#handson\WebAPI-2\ApiModel\TeacherAndClassRoomApiModel.csutf-8:
+1D:\C#handson\WebAPI-2\ApiModel\TeacherApiModel.csutf-8@
+7D:\C#handson\WebAPI-2\Controllers\StudentsController.csutf-8@
+7D:\C#handson\WebAPI-2\Controllers\TeachersController.csutf-8I
+@D:\C#handson\WebAPI-2\MappingConfigurations\AutoMapperProfile.csutf-8)
+ D:\C#handson\WebAPI-2\Program.csutf-81
+(D:\C#handson\WebAPI-2\WeatherForecast.csutf-8L
+AD:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.GlobalUsings.g.csutf-8`
+UD:\C#handson\WebAPI-2\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8J
+?D:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.AssemblyInfo.csutf-8]
+RD:\C#handson\WebAPI-2\obj\Debug\net6.0\WebAPI-2.MvcApplicationPartsAssemblyInfo.csutf-8

@@ -1,0 +1,8 @@
+﻿D:\C#handson\APIDBLayer\ApiDbContext.cs
+D:\C#handson\APIDBLayer\Entities\ClassRoom.cs
+D:\C#handson\APIDBLayer\Entities\Employee.cs
+D:\C#handson\APIDBLayer\Entities\Student.cs
+D:\C#handson\APIDBLayer\Entities\Teacher.cs
+D:\C#handson\APIDBLayer\Migrations\20220630052306_initial.cs
+D:\C#handson\APIDBLayer\Migrations\20220630052306_initial.Designer.cs
+D:\C#handson\APIDBLayer\Migrations\ApiDbContextModelSnapshot.cs

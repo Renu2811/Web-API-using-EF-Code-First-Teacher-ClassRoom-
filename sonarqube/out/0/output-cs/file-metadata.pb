@@ -1,0 +1,12 @@
+0
+'D:\C#handson\APIDBLayer\ApiDbContext.csutf-86
+-D:\C#handson\APIDBLayer\Entities\ClassRoom.csutf-85
+,D:\C#handson\APIDBLayer\Entities\Employee.csutf-84
++D:\C#handson\APIDBLayer\Entities\Student.csutf-84
++D:\C#handson\APIDBLayer\Entities\Teacher.csutf-8E
+<D:\C#handson\APIDBLayer\Migrations\20220630052306_initial.csutf-8P
+ED:\C#handson\APIDBLayer\Migrations\20220630052306_initial.Designer.csutf-8J
+?D:\C#handson\APIDBLayer\Migrations\ApiDbContextModelSnapshot.csutf-8P
+ED:\C#handson\APIDBLayer\obj\Debug\net6.0\APIDBLayer.GlobalUsings.g.csutf-8b
+WD:\C#handson\APIDBLayer\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8N
+CD:\C#handson\APIDBLayer\obj\Debug\net6.0\APIDBLayer.AssemblyInfo.csutf-8
